@@ -13,9 +13,3 @@ Encapsulation is the practice of restricting direct access to class attributes a
 
 ## 🎯 Purpose
 To understand how to protect and manage data within classes.
-
-## 🛠️ Technologies
-- Java
-
-## 📌 Status
-In progress
